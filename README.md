@@ -2,8 +2,7 @@
 # WindowsTroubleshooting
  # Dabrowski Software Development
 
-- NEW:
-  -Software from Microsoft Corporation for keeping PC up-2-date and healthy
+-Software from Microsoft Corporation for keeping PC up-2-date and healthy
     - WindowsUpdateDiagnostic
     - MicrosoftFixit.ProgramInstallUninstall.RNP.Run
     - Microsoft Fix it
