@@ -1,7 +1,5 @@
 
 # WindowsTroubleshooting [ Microsoft Corporation ]
- # Dabrowski Software Development
-
 - 
  Software from Microsoft Corporation for keeping PC up-2-date and healthy (Microsoft Corporation Software.zip)
     - WindowsUpdateDiagnostic - to help troubleshooting issues with installing and uninstalling Windows updates
